@@ -327,7 +327,7 @@ html.ie7 .home-block input[type="search"] {
 }
 
 .colour[data-name] span {
-	background-image: url(images/icons.png);
+	background-image: url(../img/icons.png);
 	background-repeat: no-repeat;
 	padding-right: 40px;
 }
@@ -924,7 +924,7 @@ div.twtr-widget .twtr-tweet {
 		margin-top: -18px;
 	}
 	html.backgroundsize .colour[data-name] span {
-		background-image: url(images/icons_bigger.png);
+		background-image: url(../img/icons_bigger.png);
 		background-repeat: no-repeat;
 		background-size: 38px 823px;
 		padding-right: 70px;
