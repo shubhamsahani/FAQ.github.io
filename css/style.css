@@ -132,6 +132,7 @@ body {
 .circle {
 	float: left;
 	left: 40%;
+	/* left: 0%; */
 	position: absolute;
 	z-index: 3;
 }
@@ -280,7 +281,7 @@ html.ie7 .home-block .home-content {
 }
 .home-block input[type="search"] {
 	background-color: #e9e9ea;
-	background-image: url(images/icon-search.png);
+	/* background-image: url(images/icon-search.png); */
 	background-repeat: no-repeat;
 	background-position: 10px center;
 	background-size: 13px 12px;
@@ -756,7 +757,7 @@ textarea {
 	margin-bottom: 20px;
 }
 .telephone-number.with-icon {
-	background-image: url(/images/icon-phone.png);
+	/* background-image: url(/images/icon-phone.png); */
 	background-repeat: no-repeat;
 	background-position: left center;
 	padding-left: 30px;
@@ -771,7 +772,7 @@ textarea {
 	z-index: 3;
 }
 .social-buttons a {
-	background-image: url(images/icons-social_media.png);
+	/* background-image: url(images/icons-social_media.png); */
 	background-repeat: no-repeat;
 	display: block;
 	float: left;
