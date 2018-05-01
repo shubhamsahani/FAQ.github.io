@@ -756,7 +756,7 @@ textarea {
 	margin-bottom: 20px;
 }
 .telephone-number.with-icon {
-	background-image: url(/images/icon-phone.png);
+	/* background-image: url(/images/icon-phone.png); */
 	background-repeat: no-repeat;
 	background-position: left center;
 	padding-left: 30px;
